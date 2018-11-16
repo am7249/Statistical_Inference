@@ -1,0 +1,1 @@
+Implementing the concepts of statistics from Larry Wesserman's All of Statistics
